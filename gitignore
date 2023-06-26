@@ -1,0 +1,47 @@
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+myenv/
+env/
+.env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Testing
+.coverage
+.tox/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore any sensitive or environment-specific information
+config.ini
+secrets.json
+.env
+
+# Ignore compiled extensions
+*.so
+*.dylib
+*.dll
+
