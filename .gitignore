@@ -13,9 +13,11 @@ build/
 *.egg
 
 # Virtual environments
+myenv
 myenv/
 env/
 .env/
+.env
 
 # IDE-specific files
 .vscode/
